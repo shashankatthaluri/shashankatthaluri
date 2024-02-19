@@ -1,7 +1,7 @@
-<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
+<h1> Hey there <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> </h1>
 
-My name is Shashank Atthaluri, I'm an AI developer, Prompting Engineer, and I'm passionate about crafting the prompts to get maximum best results from the AI and also build APIs.
-
+ I'm Shashank Atthaluri, your AI developer and Prompting Engineer. Currently, I thrive on fine-tuning prompts to unleash the full potential of AI.
+ 
 - Check out my [GitHub Profile](https://github.com/shashankatthaluri) to explore my repositories and contributions.
 - Visit my [Personal Website](https://sites.google.com/view/shashank-atthaluri/) to learn more about my journey and expertise.
 - Dive into my [Boring Blog](https://sites.google.com/view/shashank-atthaluri/writing/boring-blogs) where I share valuable insights and learnings.
@@ -22,6 +22,7 @@ My name is Shashank Atthaluri, I'm an AI developer, Prompting Engineer, and I'm 
 
 ## ✨ Fun Facts
 
+- 
 
 ## 📫 Contact
 
