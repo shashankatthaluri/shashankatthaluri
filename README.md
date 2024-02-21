@@ -1,6 +1,6 @@
 <h1> Hey there <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> </h1>
 
- I'm Shashank Atthaluri, your AI developer and Prompting Engineer. Currently, I thrive on fine-tuning prompts to unleash the full potential of AI.
+ I'm Shashank Atthaluri, your AI developer and Prompting Engineer. Currently, I thrive on fine-tuning prompts to unleash the full potential of AI and try building robust APIs.
  
 - Check out my [GitHub Profile](https://github.com/shashankatthaluri) to explore my repositories and contributions.
 - Visit my [Personal Website](https://sites.google.com/view/shashank-atthaluri/) to learn more about my journey and expertise.
