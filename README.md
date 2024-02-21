@@ -22,4 +22,10 @@
 
 ## 📫 Contact
 
-For a quick response, connect with me on [LinkedIn](https://www.linkedin.com/in/shashank-atthaluri/). Looking forward to collaborating and sharing our passion for artificial intelligence, Brain Computer Interface and anything and everything!
+For a quick response, connect with me on [LinkedIn](https://www.linkedin.com/in/shashank-atthaluri/). Looking forward to collaborating and sharing our passion.   
+
+If you got any plans: 
+- of building a company, `TEXT ME` 🖐
+- to talk about AI, `TEXT ME` 🖐
+- to discuss about Brain Computer Interface, `TEXT ME` 🖐
+- to discuss anything in this world `TEXT ME` 🖐, I will try my best to schedule it⌚. So, `DO NOT HESITATE TO TEXT` ! 😊
