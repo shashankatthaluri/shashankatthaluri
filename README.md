@@ -16,7 +16,7 @@
 
 **Deep Learning:** `Neural Networks` `Convolutional Neural Networks (CNN)` `Recurrent Neural Networks (RNN)` `Generative Adversarial Networks (GAN)`
 
-**Prompt Engineering** `OpenAI` `GPT-3` `GPT-4 (Beta)` `Codex` `DALL-E` `MidJourney` `FlowGPT`
+**Prompt Engineering:** `OpenAI` `GPT-3` `GPT-4 (Beta)` `Codex` `DALL-E` `MidJourney` `FlowGPT`
 
 **Version Control:** `Git` `GitLab` 
 
