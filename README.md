@@ -1,6 +1,6 @@
 <h1> Hey there <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> </h1>
 
- I'm Shashank 👋🏽, I'm a seasoned AI, Prompt Engineering, and Machine Learning engineer.  Currently, I thrive on fine-tuning prompts to unleash the full potential of AI and try building robust APIs.
+ I'm Shashank 👋🏽, I'm a seasoned AI, Prompt Engineer, and Machine Learning engineer.  Currently, I thrive on fine-tuning prompts to unleash the full potential of AI and try building robust APIs.
 
  ## About Me 🌟
  
