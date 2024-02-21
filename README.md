@@ -4,7 +4,7 @@
  
 - Check out my [GitHub Profile](https://github.com/shashankatthaluri) to explore my repositories and contributions.
 - Visit my [Personal Website](https://sites.google.com/view/shashank-atthaluri/) to learn more about my journey and expertise.
-- Dive into my [Boring Blog](https://sites.google.com/view/shashank-atthaluri/writing/boring-blogs) where I share valuable insights and learnings.
+- Dive into my [Boring Blog](https://sites.google.com/view/shashank-atthaluri/writing/boring-blogs) where I share my insights and learnings.
 - Find my [VSCode Configuration](https://github.com/[YourGitHubUsername]/vscode-settings) repository for optimizing your development environment.
 - Subscribe to my [Newsletter](https://[yourname].substack.com/) for regular tips and insights to enhance your development skills.
 
