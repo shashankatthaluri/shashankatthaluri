@@ -12,17 +12,13 @@
 
 **AI & Machine Learning:** `TensorFlow` `PyTorch` `Scikit-Learn` `Keras` `OpenCV` 
 
-**Natural Language Processing:** `NLTK` `Spacy` `BERT` `GPT` `Langchain`
+**Natural Language Processing:** `NLTK` `Spacy` `BERT` `GPT` `Langchain` `RAG`
 
 **Deep Learning:** `Neural Networks` `Convolutional Neural Networks (CNN)` `Recurrent Neural Networks (RNN)` `Generative Adversarial Networks (GAN)`
 
 **Version Control:** `Git` `GitLab` 
 
 **Others:** `Jupyter Notebooks`  `Google Cloud` 
-
-## ✨ Fun Facts
-
-- 
 
 ## 📫 Contact
 
