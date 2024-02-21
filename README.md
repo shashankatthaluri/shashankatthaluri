@@ -20,7 +20,7 @@
 
 **Version Control:** `Git` `GitLab` 
 
-**Others:** `Jupyter Notebooks`  `Google Cloud` 
+**Others:** `Jupyter Notebooks` `VSCode` `Google Cloud` 
 
 ## Fun Facts ✨
 
