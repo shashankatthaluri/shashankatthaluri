@@ -28,4 +28,4 @@ If you got any plans:
 - of building a company, `TEXT ME` 🖐
 - to talk about AI, `TEXT ME` 🖐
 - to discuss about Brain Computer Interface, `TEXT ME` 🖐
-- to discuss about anything in this world `TEXT ME` 🖐, I will try my best to schedule it⌚. So, `DO NOT HESITATE TO TEXT` ! 😊
+- to discuss about anything in this world `TEXT ME` 🖐, I definitely try my best to schedule ⌚. So, `DO NOT HESITATE TO TEXT` ! 😊
