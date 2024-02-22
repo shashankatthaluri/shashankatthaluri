@@ -6,7 +6,7 @@
  
 - Check out my [Personal Website](https://sites.google.com/view/shashank-atthaluri/) to learn more about my journey and expertise.
 - Dive into my [Boring Blog](https://sites.google.com/view/shashank-atthaluri/writing/boring-blogs) where I share my insights and learnings.
-- Stay updated with the latest trends by subscribing to my [Newsletter](https://your-newsletter-url) for AI and Machine Learning enthusiasts.
+- Stay updated with the latest trends by subscribing to my [Newsletter](https://your-newsletter-url) for recent AI tools and Machine Learning Algorithms.
 
 ## Toolbox 🧰
 
