@@ -12,7 +12,7 @@
 
 **AI & Machine Learning:** `TensorFlow` `PyTorch` `Scikit-Learn` `Keras` `OpenCV` `Pandas` `Numpy`
 
-**Natural Language Processing:** `NLTK` `Spacy` `BERT` `GPT` `Langchain` `RAG` `Chainlit`
+**Natural Language Processing:** `NLTK` `Spacy` `BERT` `GPT` `Langchain` `RAG` `Chainlit` `Pinecone`
 
 **Deep Learning:** `Neural Networks` `Convolutional Neural Networks (CNN)` `Recurrent Neural Networks (RNN)` `Generative Adversarial Networks (GAN)`
 
